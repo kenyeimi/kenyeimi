@@ -22,16 +22,3 @@ Szenvedélyem a technológia minden formája – a kódsoroktól kezdve egészen
 * **Élő rendezvények:** Hangmérnöki feladatok és színpadi fények programozása.
 * **Sim-Racing:** Ha marad időm, szeretem a realisztikus vezetési szimulációkat egy nagy, nyílt világban.
 * **Hardver:** Mindig van az asztalomon egy szétszedett elektronikai eszköz vagy egy forrasztópáka.
-
----
-
-### 📊 GitHub Statisztikák:
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenyeimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyeimi&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 Kapcsolat:
-* Ha érdekel a közös munka vagy csak dumálnál egyet a Solana ökoszisztémáról vagy a hangtechnikáról, dobj egy üzenetet!
