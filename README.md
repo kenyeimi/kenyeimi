@@ -27,8 +27,8 @@ Szenvedélyem a technológia minden formája – a kódsoroktól kezdve egészen
 
 ### 📊 GitHub Statisztikák:
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IDE_IRD_A_FELHASZNALONEVED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDE_IRD_A_FELHASZNALONEVED&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenyeimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyeimi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
