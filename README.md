@@ -44,23 +44,6 @@ Jelenleg egyetemi tanulmányaimat folytatom (a cél a mesterképzés és a profe
 
 ---
 
-### 📊 Statisztikák & Aktivitás
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kenyeimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyeimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyeimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
 ### 📂 Kiemelt Projektek
 
 #### 📈 Algorithmic Trading & Risk Engine
